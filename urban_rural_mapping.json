@@ -1,0 +1,894 @@
+{
+    "Afghanistan": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Albania": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Algeria": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "American Samoa": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Andorra": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Angola": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Anguilla": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Antigua and Barbuda": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Argentina": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Armenia": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Aruba": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Australia": {
+        "urban_rural": "Urban",
+        "region": "Oceania"
+    },
+    "Austria": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Azerbaijan": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Bahamas": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Bahrain": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Bangladesh": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Barbados": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Belarus": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Belgium": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Belize": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Benin": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Bhutan": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Bolivia": {
+        "urban_rural": "Rural",
+        "region": "South America"
+    },
+    "Bosnia and Herzegovina": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Botswana": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Brazil": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "British Virgin Islands": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Brunei": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Bulgaria": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Burkina Faso": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Burundi": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Cabo Verde": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Cambodia": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Cameroon": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Canada": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Cayman Islands": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Central African Republic": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Chad": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Chile": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Hong Kong": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Macao": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "China": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Colombia": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Comoros": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "DR Congo": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Congo": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Cook Islands": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Costa Rica": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Croatia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Cuba": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Cyprus": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Czechia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Denmark": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Djibouti": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Dominica": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Dominican Republic": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Ecuador": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Egypt": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "El Salvador": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Equatorial Guinea": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Eritrea": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Estonia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Eswatini": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Ethiopia": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Falkland Islands": {
+        "urban_rural": "Rural",
+        "region": "South America"
+    },
+    "Faroe Islands": {
+        "urban_rural": "Rural",
+        "region": "Europe"
+    },
+    "Fiji": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Finland": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "France": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "French Polynesia": {
+        "urban_rural": "Urban",
+        "region": "Oceania"
+    },
+    "Gabon": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Gambia": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Georgia": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Germany": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Ghana": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Gibraltar": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Greece": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Greenland": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Grenada": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Guadeloupe": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Guatemala": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Guinea": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Guinea-Bissau": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Guyana": {
+        "urban_rural": "Rural",
+        "region": "South America"
+    },
+    "Haiti": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Vatican City": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Honduras": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Hungary": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Iceland": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "India": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Indonesia": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Iran": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Iraq": {
+        "urban_rural": "Rural",
+        "region": "Middle East"
+    },
+    "Ireland": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Palestine": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Italy": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Jamaica": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Japan": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Jordan": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Kazakhstan": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Kenya": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Kiribati": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "North Korea": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "South Korea": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Kuwait": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Kyrgyzstan": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Laos": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Latvia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Lebanon": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Lesotho": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Liberia": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Libya": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Liechtenstein": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Lithuania": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Luxembourg": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Madagascar": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Malawi": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Malaysia": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Maldives": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Mali": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Malta": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Marshall Islands": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Martinique": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Mauritania": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Mauritius": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Mayotte": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Mexico": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Micronesia": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Moldova": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Monaco": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Mongolia": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Montenegro": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Montserrat": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Morocco": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Mozambique": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Myanmar": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Namibia": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Nauru": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Nepal": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Netherlands": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "New Caledonia": {
+        "urban_rural": "Urban",
+        "region": "Oceania"
+    },
+    "New Zealand": {
+        "urban_rural": "Urban",
+        "region": "Oceania"
+    },
+    "Nicaragua": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Niger": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Nigeria": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Niue": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Norfolk Island": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "North Macedonia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Norway": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Oman": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Pakistan": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Palau": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Panama": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Papua New Guinea": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Paraguay": {
+        "urban_rural": "Rural",
+        "region": "South America"
+    },
+    "Peru": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Philippines": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Pitcairn Islands": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Poland": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Portugal": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Puerto Rico": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Qatar": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Romania": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Russia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Rwanda": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Saint Helena": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Saint Pierre and Miquelon": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Samoa": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "San Marino": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Sao Tome and Principe": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Saudi Arabia": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Senegal": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Serbia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Seychelles": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Sierra Leone": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Singapore": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Slovakia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Slovenia": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Solomon Islands": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Somalia": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "South Africa": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "South Sudan": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Spain": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Sri Lanka": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Saint Kitts and Nevis": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Saint Lucia": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Saint Vincent and the Grenadines": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Sudan": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Suriname": {
+        "urban_rural": "Rural",
+        "region": "South America"
+    },
+    "Sweden": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Switzerland": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Syria": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "Taiwan": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Tajikistan": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Tanzania": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Thailand": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Timor-Leste": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Togo": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Tokelau": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Tonga": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Trinidad and Tobago": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Tunisia": {
+        "urban_rural": "Urban",
+        "region": "Africa"
+    },
+    "Turkey": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "Turkmenistan": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Turks and Caicos Islands": {
+        "urban_rural": "Rural",
+        "region": "North America"
+    },
+    "Tuvalu": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Uganda": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Ukraine": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "United Arab Emirates": {
+        "urban_rural": "Urban",
+        "region": "Middle East"
+    },
+    "United Kingdom": {
+        "urban_rural": "Urban",
+        "region": "Europe"
+    },
+    "United States": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "US Virgin Islands": {
+        "urban_rural": "Urban",
+        "region": "North America"
+    },
+    "Uruguay": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Uzbekistan": {
+        "urban_rural": "Rural",
+        "region": "Asia"
+    },
+    "Vanuatu": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Venezuela": {
+        "urban_rural": "Urban",
+        "region": "South America"
+    },
+    "Vietnam": {
+        "urban_rural": "Urban",
+        "region": "Asia"
+    },
+    "Wallis and Futuna Islands": {
+        "urban_rural": "Rural",
+        "region": "Oceania"
+    },
+    "Western Sahara": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Yemen": {
+        "urban_rural": "Rural",
+        "region": "Middle East"
+    },
+    "Zambia": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    },
+    "Zimbabwe": {
+        "urban_rural": "Rural",
+        "region": "Africa"
+    }
+}
